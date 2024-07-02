@@ -1,6 +1,6 @@
 # Vim Advanced Cheat Sheet
 
-##Basic
+## Basic
 ```
 gg // go to first line of the file
 G // go to last line of the file
@@ -13,7 +13,7 @@ I // insert in start line
 A // insert in end line
 ```
 
-##Vertical move
+## Vertical move
 ```
 * // go to next same word
 zz // center your view or set the line you are at on the middle of the screen
@@ -24,7 +24,7 @@ Ctrl + u // half pageup
 ) // bottom of paragraph
 ```
 
-##Advance
+## Advance
 ```
 ci( // remove whats inside the next () and insert
 dt) // cut until )
