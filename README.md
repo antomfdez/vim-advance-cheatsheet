@@ -40,6 +40,7 @@ f) // go forward to nearest ) closing bracket
 f( // go forward to nearest ( opener bracket
 t( // jump 1 char before (
 t) // jump 1 char before )
+T( // jump back 1 char before (
 , // repeat the last command backwards
 ; // repeat the last command forward
 ```
